@@ -16,23 +16,23 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-# The Last Light on Gull Island
-by: CS 1101
-theme: paper
+# Last Call
+by: Macon Glass and Rudy Rodriguez
+theme: night
 
-## dock
-![A small rocky island at dusk, with a dark lighthouse on the cliff](images/island.svg)
+## house-party
 
-The ferry leaves you on a crooked wooden dock and chugs off into the fog. You are the new lighthouse keeper of Gull Island, and this is your first night on the job.
+Your friend Tyler convinces you to come to the biggest party of the semester. You arrive and everybody is dancing, Tyler greets you at the door and you crack a cold one with him.
 
-Up on the cliff, the lighthouse is dark. It should have been lit an hour ago.
+A couple of hours pass by and the music suddenly goes quiet, the lights are cut, and a loud scream is heard from upstairs.
 
-Somewhere out in the fog, a ship's horn sounds. Then another, closer.
+You aren't sure what happened, but everyone starts panicking.
 
-[Find a way to get that light working](#crossroads)
+[Approach the staircase](#holy-crap)
 
-## crossroads
-You stand where the island's paths meet. Gulls complain from every roof and rock, and the dark tower watches over all of it.
+## holy-crap
 
-[Walk up the hill to the village](#path-1)
-[Take the windy trail along the cliffs](#path-2)
+You get to the staircase, and there's a body laying in a pool of blood on the ground right in front of you.
+
+[Grab Tyler and go upstairs](#path-1)
+[Run towards the front entrance](#path-2)
