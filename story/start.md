@@ -36,5 +36,3 @@ You stand where the island's paths meet. Gulls complain from every roof and rock
 
 [Walk up the hill to the village](#path-1)
 [Take the windy trail along the cliffs](#path-2)
-[Head down to the beach](#path-3)
-[Go straight to the lighthouse](#path-4)
