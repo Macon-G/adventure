@@ -24,36 +24,61 @@
 by: Macon Glass
 
 ## path-1
-The village is five crooked houses and a bakery. Every window is dark except the bakery's, where warm light spills onto the cobblestones.
+You and Tyler are at the top of the staircase. You can barely see anything and your head is spinning.
 
-A little sign on the house next door says KEEPER in faded paint.
+[Enter the bedroom](#the-bedroom)
+[Enter the bathroom](#the-bathroom)
+[Enter the bathroom carefully](#the-bathroom-armed) if gun
+[Go back downstairs](#holy-crap)
 
-[Knock on the bakery door](#bakery)
-[Knock on the keeper's house](#old-keeper)
-[Go back to the crossroads](#crossroads)
+## the-bedroom
+You enter the bedroom. Tyler tells you that his parents keep a gun in the nightstand. You open the drawers and find it.
 
-## bakery
-Rosa the baker opens the door in a cloud of flour. "You're the new keeper? Then you'll want this. The tower stairs are black as a boot at night."
+get: gun
 
-She hands you an old brass lantern.
+[Give Tyler the gun and go back into the hallway](#the-long-hallway)
+[Hold onto the gun and go back into the hallway](#path-1)
 
-get: lantern
+## the-long-hallway
+You reach the hallway, Tyler goes ahead of you and enters the bathroom.
 
-"There's pie, if you'd like some," she adds. "Blackberry."
+"Wait for me, Tyler!" you shout, but he's panicking, and doesn't hear you.
 
-[Stay for a slice of pie](#pie)
-[Thank her and head back out](#path-1)
+You are alone now.
 
-## pie
-The pie is warm, and the chair by the oven is soft. You close your eyes for just a moment.
-
-When you open them, it's morning. The ship made it past the rocks by pure luck, and the harbor master is waiting outside with a very long list of complaints.
+You hear a whisper in your ear, "Boo."
 
 THE END
 
-## old-keeper
-An old man opens the door just a crack. "Abernathy," he says. "I kept that light for forty years."
+## the-bathroom
+You enter the bathroom and two shots ring out immediately.
 
-"The tower door is locked, and the only key went down with my boat when she sank off the south beach. If you want that light lit, the key is in the wreck."
+You think to yourself, "did I really just chase a killer without anything to protect myself with?" and everything fades to black...
 
-[Go back to the crossroads](#crossroads)
+THE END
+
+## the-bathroom-armed
+You enter the bathroom and the killer stands in front of you. He aims a gun at you and pulls the trigger.
+
+*click*
+
+Now, you aim your gun at them. You can put an end to this, right here, right now; or you can wait.
+
+[Pull the trigger](#justice-for-gotham)
+[Spare them](#the-chill-guy)
+
+## justice-for-gotham
+You squeeze the trigger before the killer can do any more harm.
+
+**boom**
+
+In horror, you look at their face and see that it was Tyler! How tragic!
+
+THE END
+
+## the-chill-guy
+You hold the killer at gunpoint until the police arrive and arrest the killer.
+
+The victim will get justice.
+
+THE END
